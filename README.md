@@ -17,8 +17,4 @@ Turning Vision into Reality
 ### Address:
 Pune, India
 
-
-- VLSI & Embedded Systems, Master of Engineering
-- Electronics and Telecommunication, Bachelor of Engineering
-
 ### Work Experience
